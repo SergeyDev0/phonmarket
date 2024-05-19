@@ -3,7 +3,6 @@ import Footer from './components/footer/Footer';
 import mainLogo from "./assets/icons/logo.svg";
 import phoneIcon from "./assets/icons/phone.svg";
 import arrowDownIcon from "./assets/icons/arrow_down.svg";
-import 'swiper/css';
 import { Map } from './components/map/Map';
 
 function App() {
